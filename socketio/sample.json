@@ -1,0 +1,1 @@
+{"name":{"first_name":"JOHN","last_name":"DOE"},"dob":"01/01/1910","address":"123 ANY ROAD, ","city":"ANYTOWN","state":"VA","zip":"00001","phone":"123-456-7890","email":"JOHNDOE@example.com","coverage":[{"type":"Part A","effective_data":"01/01/2012"},{"type":"Part B","effective_data":"01/01/2012"}]}
